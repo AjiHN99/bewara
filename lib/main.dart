@@ -1,3 +1,4 @@
+import 'package:bewara/view/signup_screen.dart';
 import 'package:flutter/material.dart';
 import 'view/splash_screen.dart'; // Pastikan file ini berada di direktori yang sama atau sesuaikan dengan lokasi file
 
@@ -17,7 +18,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         fontFamily: 'Roboto', // Bisa disesuaikan
       ),
-      home: const SplashScreen(), // Menampilkan splash screen sebagai halaman awal
+      home: const SignUpScreen(), // Menampilkan splash screen sebagai halaman awal
     );
   }
 }
