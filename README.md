@@ -1,4 +1,5 @@
 # bewara
+Bewara adalah aplikasi untuk Tugas Besar mata kuliah pemrograman mobile
 
 A new Flutter project.
 
